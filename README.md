@@ -43,13 +43,13 @@ The **Medicine Reminder App** is an Android application designed to help elderly
 
 ### 👥 Contributors
 **Jagdish**
--https://github.com/NareJagdish
+- https://github.com/NareJagdish
 
 **Vaishnavi** 
--https://github.com/vaishu2311
+- https://github.com/vaishu2311
 
 **Siddhesh**
--https://github.com/Sidsapkale
+- https://github.com/Sidsapkale
 
 ---
 **SCREENSHOTS (SCREEN)**
