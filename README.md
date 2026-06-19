@@ -22,21 +22,24 @@ The **Medicine Reminder App** is an Android application designed to help elderly
 
 ---
 
-🌍 Future Enhancements
-🌐 Multi‑language support
+## 🌍 Future Enhancements 
+-🌐 Multi‑language support
 
-📷 Prescription upload and scanning
+-📷 Prescription upload and scanning
 
-🛒 Auto‑order integration with pharmacies
+-🛒 Auto‑order integration with pharmacies
 
-⌚ Wearable device connectivity
+-⌚ Wearable device connectivity
 
-👨‍👩‍👧 Family dashboard for multiple caregivers
+-👨‍👩‍👧 Family dashboard for multiple caregivers
+
+---
 
 ### Prerequisites
 - Install **Android Studio** and **Java JDK**.
 - Set up a **Firebase project** (for notifications and data sync).
 
+---
 
 👥 Contributors
 **Jagdish**
@@ -48,6 +51,8 @@ https://github.com/vaishu2311
 **Siddhesh**
 https://github.com/Sidsapkale
 
+---
+**SCREENSHOTS (SCREEN)**
 
 <img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/35c8ca9f-22e4-467b-bfd3-6342e69f82e6" />
 <img width="1080" height="2400" alt="2" src="https://github.com/user-attachments/assets/ab481542-ba16-4cfe-8d81-ffde87ae808b" />
